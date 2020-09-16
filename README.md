@@ -4,6 +4,8 @@
 
 ## Data downloads
 
+[View all under Releases](https://github.com/matthen/dstc/releases/tag/v1).
+
 * [handbook.pdf](handbook.pdf) - The DSTC 2 & 3 Handbook with information about the data formats used
 * [dstc2_traindev.tar.gz](https://github.com/matthen/dstc/releases/download/v1/dstc2_traindev.tar.gz) - Train and development datasets for DSTC 2.
 * [dstc2_test.tar.gz](https://github.com/matthen/dstc/releases/download/v1/dstc2_test.tar.gz) -  Test dataset for DSTC 2.
