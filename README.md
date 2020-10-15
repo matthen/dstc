@@ -13,6 +13,7 @@
 * [dstc3_test.tar.gz](https://github.com/matthen/dstc/releases/download/v1/dstc3_test.tar.gz) - Test dataset for DSTC 3.
 * [dstc2_scripts.tar.gz](https://github.com/matthen/dstc/releases/download/v1/dstc2_scripts.tar.gz) - Evaluation scripts, baseline tracker and other tools.
 * [HWU_baseline.zip](https://github.com/matthen/dstc/releases/download/v1/HWU_baseline.zip) - Alternative baseline tracker, provided by Zhuoran Wang.
+* [audio_*.tar.gz](https://github.com/matthen/dstc/releases/tag/v1) - audio of all the calls, as wav files
 
 Original challenge results:
 
